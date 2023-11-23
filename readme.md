@@ -5,7 +5,7 @@
 | Animé | synopsis |
 | ------ | ------ | 
 | Hunter X Hunter | bla bla |
-| GTO | Best teacher ever |
-| Elfen lied | Du sang, encore |
+| GTO | Un jeune enseignant de lycée, ancien voyou, se retrouve responsable d'une classe particulièrement difficile dont les élèves ne respectent plus aucun professeur. |
+| Elfen lied | Lucy, une diclonius, arrive à s'échapper du laboratoire en massacrant les gardes avant d'être touchée à la tête par un sniper, ce qui la précipite dans l'océan.  |
 | Assasination classroom | Classes d'assassin |
 | Psycho Pass | Control, systeme |
