@@ -1,0 +1,16 @@
+# L'eco-conception Web
+  ## Le constat
+  ## Le concept
+  ## Les avantage
+  ## Les bonnes pratiques
+    ### Back-end
+      #### Réduire les requettes coté serveur
+      #### Externaliser et fragmenter le CSS et le JS
+      #### Favoriser le dévellopement sur mesure (à l'utilisation de CMS)
+    ### Front-end
+      #### Utiliser des polices standards
+      #### Limiter les animations et fonctionnalités
+      #### remplacer les boutons d'origine des réseaux sociaux
+      #### Favoriser les theme sombres 
+## Conclusion
+## Sources et resources
