@@ -6,7 +6,15 @@ Et pour prendre un exemple qui parlera à tous :
 là où nos déchets produise 17 MegeTones de déchets (en France pour l'année 2019); il s'agit de 24,4 MegaTones pour le numérique.
 Le constat est simple, si le numérique que nous connaissons n'évolue pas, il pourait disparaitre. (en même temps que le reste celà dit)
   ## Le concept
+Du coup on arrete de créer des sites, d'aller sur le web et on oublie son téléphone ! Ou pas.
+Mais c'est ici que vient prendre sa place l'eco-conception :
+Pour fonctionner, nos apareil demande de l'électricité, c'est aussi le cas pour nos sites web. 
+Chaque pages, animation et images téléchargée demande une petites quantité d'énergie pour transmetre la demande de téléchargement, la gestion de cette demande et l'envoi de la réponsse.
+L'eco-conception s'interesse à la façon dont nos sites (entre autre) sont conçu, disignés et gérés.
+Une façon de concevoir plus légère et meilleur pour l'environement. Le tout s'articule autour de bonnes prtique à adopter pouvant être très simple. 
+En tout cas à notre porté de débutant, ce qui est plustot pas mal !
   ## Les avantage
+
   ## Les bonnes pratiques
     ### Back-end
       #### Réduire les requettes coté serveur
