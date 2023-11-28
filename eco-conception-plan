@@ -7,18 +7,35 @@ là où nos déchets produise 17 MegeTones de déchets (en France pour l'année 
 Le constat est simple, si le numérique que nous connaissons n'évolue pas, il pourait disparaitre. (en même temps que le reste celà dit)
   ## Le concept
 Du coup on arrete de créer des sites, d'aller sur le web et on oublie son téléphone ! Ou pas.
-Mais c'est ici que vient prendre sa place l'eco-conception :
+C'est ici que vient prendre sa place l'eco-conception :
 Pour fonctionner, nos apareil demande de l'électricité, c'est aussi le cas pour nos sites web. 
 Chaque pages, animation et images téléchargée demande une petites quantité d'énergie pour transmetre la demande de téléchargement, la gestion de cette demande et l'envoi de la réponsse.
 L'eco-conception s'interesse à la façon dont nos sites (entre autre) sont conçu, disignés et gérés.
-Une façon de concevoir plus légère et meilleur pour l'environement. Le tout s'articule autour de bonnes prtique à adopter pouvant être très simple. 
-En tout cas à notre porté de débutant, ce qui est plustot pas mal !
+C'est une façon de concevoir plus légère et meilleur pour l'environement. Le tout s'articule autour de bonnes prtique à adopter pouvant être très simple. 
+En tout cas à notre porté de débutant, ce qui est plustot pas mal ! On peu résumé le concept de l'éco-conception à cette phrase : "Concevoir mieux en utilisant moins".
   ## Les avantage
-
+Ce qui est beau dans tout ça, c'est que les avantage de l'éco-conception ne s'arrete pas à l'aspect écologique !
+Concevoirun site avec des fonctionalité spécifiques, un site qui va à l'ssentiel, ca plait aux utilisateurs. Un poduit qui soit simple, utile et plaisant. 
+Ce qui se répercute sur l'image de marque de l'entreprise et la notre en tant que professionel.
+L'eco-conception a donc un tas d'argument pour nous y interesser ! 
+Mais juste au cas ou : l'eco-conception nous challenge pour participer au web de demain.
   ## Les bonnes pratiques
+Interessons nous maintenant aux bonnes pratique, parce que c'est quand même le plus interessant dans cette présentation.
     ### Back-end
       #### Réduire les requettes coté serveur
-      #### Externaliser et fragmenter le CSS et le JS
+La de suite ca peut paraitre un peu vague mais en vrai c'est simple a comprendre. 
+Au début, j'expliquais que chaque demande faite au serveur, le traitement de cette demande et la réponsse conssome de l'nergie.
+Mais faire des grosse demande en une fois, c'est pas mieux. Du coup l'idée c'est de demander uniquement le necessaire.
+En pratique, imaginez votre portfolio de projet web; 
+Ca donne quoi si tout les pojet sont ouvert et visible sur la même page ?
+...
+Au mieux c'est lent, trop chargé, frenchement pas ouf à parcourir.
+En ne mettant qu'une "vitrine", la page est plus légère, plus rapide à chargée et ne contient que l'essentiel pour l'utilisateur. En plus ca participe à l'expérience utilisateur donc faut pas hésiter !
+      #### Externaliser et fragmenter le code
+Ici l'idée c'est de divise votre code en plusieur partie pour ne charger que le necessaire. L'exemple parle plus :
+Retournez sur votre portfolio dont on parlait juste avant. Votre page galerie n'a pas besoins du code necessaire à l'animation qui est sur votre page d'accueil. 
+Et votre page d'accueil n'a pas besoins de charger la gestion de votre gallerie. 
+On charge moins, la page est plus légère, plus rapide et ne contient que l'essentiel.
       #### Favoriser le dévellopement sur mesure (à l'utilisation de CMS)
     ### Front-end
       #### Utiliser des polices standards
@@ -28,3 +45,4 @@ En tout cas à notre porté de débutant, ce qui est plustot pas mal !
 ## Conclusion
 ## Sources et resources
 url[https://www.greenit.fr/2020/11/03/100-portables-rechauffent-1-hectare-de-planete-dun-degre-pendant-60-ans/]
+url[https://www.sortlist.be/fr/blog/eco-conception-site-web/]
