@@ -37,6 +37,9 @@ Retournez sur votre portfolio dont on parlait juste avant. Votre page galerie n'
 Et votre page d'accueil n'a pas besoins de charger la gestion de votre gallerie. 
 On charge moins, la page est plus légère, plus rapide et ne contient que l'essentiel.
       #### Favoriser le dévellopement sur mesure (à l'utilisation de CMS)
+Avec les nombre de pub, de builder et de CMS qu'on peut croiser, ca peut paraitre étonnant mais ce n'est pas la mailleure idée.
+Un CMS embarque avec votre ste un tat de module inutile pour vote projet. 
+On repars sur votre site, est-ce que vous aurez besoins de ce module tout fais pour metre de la musique en autoplay sur votre page d'accueil ? Je ne pensse pas !
     ### Front-end
       #### Utiliser des polices standards
       #### Limiter les animations et fonctionnalités
