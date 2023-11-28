@@ -9,3 +9,11 @@
 | Elfen lied | Lucy, une diclonius, arrive à s'échapper du laboratoire en massacrant les gardes avant d'être touchée à la tête par un sniper, ce qui la précipite dans l'océan.  |
 | Assasination classroom | Koro Sensei devient enseignant de la classe 3-E de l'école de Kunugigaoka. Après avoir détruit la Lune et promis de faire exploser la Terre, ses élèves tentent de l'arrêter. Unis par un lien mystérieux, ils ont un an pour achever leur mission. |
 | Psycho Pass | Au XXIIe siècle, le Japon a mis en place le Système Sibyl. Ce processus détecte le niveau de criminalité qui sommeille en chaque citoyen, permettant ainsi de prévenir la moindre menace pour la société. |
+| Gambling school | jeux |
+| Tokyo Ghoul | Monstre |
+| Bastard | Magick |
+| Card Captor Sakura | Childhood |
+| Dragon Ball , DBZ, DBGT, DBAF | Classique |
+| Kiba, spririt key | Fantasy |
+| Parasyte | Monstre |
+| Pokemon | Quand même ! |
