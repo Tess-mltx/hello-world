@@ -50,11 +50,11 @@ Même si c'est super cool d'avoir une font artistique, ce n'est pas forcément l
 Pour être utilisée sur votre site, pour que l'utilisateur puisse la voir; Il doit la charger sur son apareil.
 ~~Ca implique qu'il conssome plus d'énergie et plus de data, le site est plus lourd.~~
 C'est pour ce qu'il est préférable de choisire des font disponile dans la plus part des apareils.
-      ### Limiter les animations et fonctionnalités
+### Limiter les animations et fonctionnalités
 Pour que vos page soient claire pour votre utilisateur, éfficace et légère; Limitez les animation et fonctionalité à l'essentiel. 
 Plus il y en a de différentes, plus le code est consséquent. De plus, trop d'option perde l'utilisateur pour ce qui est des fonctionalité. 
 Dans le cas des animations: utilisez les pour atirer l'attention sur un élément spécifique de votre page. Metre une animation "pour dire que ca bouge" n'a plus grand sens.
-  ~~  remplacer les boutons d'origine des réseaux sociaux
+~~### remplacer les boutons d'origine des réseaux sociaux
 La plus part des boutons de réseaux sociaux prêt à intègrés contiennent des scripts qui peuvent clairement alourdir votre site. 
 Réfléchissez au besoins de votre projet et chaque fois que c'est possible, préférez une version plus légère et minimaliste des bouton de vos réseaux sociaux.~~
 ### Choisissez une palette adaptée
