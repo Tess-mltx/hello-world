@@ -7,7 +7,6 @@ Pour donner un ordre de grandeur; La vie de 100 ordinateurs portables conduit à
 Et pour prendre un exemple qui parlera à tous : 
 là où nos déchets produise 17 MegeTones de déchets (en France pour l'année 2019); il s'agit de 24,4 MegaTones pour le numérique.
 Le constat est simple, si le numérique que nous connaissons n'évolue pas, il pourait disparaitre. (en même temps que le reste celà dit)
-  
   ## Le concept
 Du coup on arrete de créer des sites, d'aller sur le web et on oublie son téléphone ! Ou pas.
 C'est ici que vient prendre sa place l'eco-conception :
@@ -17,7 +16,6 @@ la gestion de cette demande et l'envoi de la réponsse.~~
 L'eco-conception s'interesse à la façon dont nos sites (entre autre) sont conçu, designés et gérés.
 C'est une façon de concevoir plus légère et meilleur pour l'environement. ~~Le tout s'articule autour de bonnes pratique à adopter pouvant être très simple.
 En tout cas à notre porté de débutant, ce qui est plustot pas mal !~~ On peu résumé le concept de l'éco-conception à cette phrase : "Concevoir mieux en utilisant moins".
-  
   ## Les avantage
 Ce qui est beau dans tout ça, c'est que les avantage de l'éco-conception ne s'arrete pas à l'aspect écologique !
 Concevoir un site avec des fonctionalité spécifiques, un site qui va à l'ssentiel, ca plait aux utilisateurs. ~~Un poduit qui soit simple, utile et plaisant. ~~
@@ -52,16 +50,13 @@ Même si c'est super cool d'avoir une font artistique, ce n'est pas forcément l
 Pour être utilisée sur votre site, pour que l'utilisateur puisse la voir; Il doit la charger sur son apareil.
 ~~Ca implique qu'il conssome plus d'énergie et plus de data, le site est plus lourd.~~
 C'est pour ce qu'il est préférable de choisire des font disponile dans la plus part des apareils.
-     
       #### Limiter les animations et fonctionnalités
 Pour que vos page soient claire pour votre utilisateur, éfficace et légère; Limitez les animation et fonctionalité à l'essentiel. 
 Plus il y en a de différentes, plus le code est consséquent. De plus, trop d'option perde l'utilisateur pour ce qui est des fonctionalité. 
 Dans le cas des animations: utilisez les pour atirer l'attention sur un élément spécifique de votre page. Metre une animation "pour dire que ca bouge" n'a plus grand sens.
-     
   ~~  remplacer les boutons d'origine des réseaux sociaux
 La plus part des boutons de réseaux sociaux prêt à intègrés contiennent des scripts qui peuvent clairement alourdir votre site. 
 Réfléchissez au besoins de votre projet et chaque fois que c'est possible, préférez une version plus légère et minimaliste des bouton de vos réseaux sociaux.~~
-
     #### Choisissez une palette adaptée
 Chaque pixel de votre écran est visible grace à la lumière qu'il émet. Biensur ce n'est pas de la magie, ca conssome de l'électricité. 
 Utiliser un theme sombre et une palette de couleur restreinte permet 2 choses : 
