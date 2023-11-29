@@ -1,7 +1,5 @@
 # L'eco-conception Web
-
-Lien de présentation : https://www.canva.com/design/DAF1ZlK7fD8/YxCRi6vj6vgNxuv3zYSDpQ/view?utm_content=DAF1ZlK7fD8&utm_campaign=designshare&utm_medium=link&utm_source=editor
-  
+  -  
 
   ## Le constat
 Le monde numérique est en expenssion constante. Mais ceci à un cout, celui de l'émision de CO² qui elle aussi est en expanssion.
@@ -60,7 +58,7 @@ Pour que vos page soient claire pour votre utilisateur, éfficace et légère; L
 Plus il y en a de différentes, plus le code est consséquent. De plus, trop d'option perde l'utilisateur pour ce qui est des fonctionalité. 
 Dans le cas des animations: utilisez les pour atirer l'attention sur un élément spécifique de votre page. Metre une animation "pour dire que ca bouge" n'a plus grand sens.
      
-  ~~ #### remplacer les boutons d'origine des réseaux sociaux
+  ~~  remplacer les boutons d'origine des réseaux sociaux
 La plus part des boutons de réseaux sociaux prêt à intègrés contiennent des scripts qui peuvent clairement alourdir votre site. 
 Réfléchissez au besoins de votre projet et chaque fois que c'est possible, préférez une version plus légère et minimaliste des bouton de vos réseaux sociaux.~~
 
